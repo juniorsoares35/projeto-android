@@ -39,6 +39,7 @@ menu{
     padding-bottom: 10px;
     padding-top: 10px;
     margin-left: 50px;
+    text-align: justify;
 }
 menu > a{
     text-decoration: none;
@@ -58,8 +59,6 @@ menu > a:hover{
 
 header{
     background-image: linear-gradient(  #3DDA84, #1A5C38);
-    margin-top: -23px;
-    padding-top: 30px;
 }
 header > h1{
     text-align: center;
@@ -70,6 +69,7 @@ header > p{
     font: bold 1em arial;
     color: white;
     text-align: center;
+    padding-bottom: 20px;
 }
 
 
